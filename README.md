@@ -6,7 +6,7 @@ This project is part of my personal journey toward becoming a stronger full-stac
 
 ---
 
-## 🚀 Features (planned)
+## Features (planned)
 
 - Task management (todo, in progress, done)
 - Notes for technical learning
@@ -17,7 +17,7 @@ This project is part of my personal journey toward becoming a stronger full-stac
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 - React
