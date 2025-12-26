@@ -48,7 +48,7 @@ This project is part of my personal journey toward becoming a stronger full-stac
 
 ## Status
 
-> 🛠 Currently in active development
+>  Currently in active development
 
 This repo will evolve as I learn and improve.
 
